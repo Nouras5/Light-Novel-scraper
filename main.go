@@ -1,15 +1,14 @@
 package main
 
 import (
-    "bufio"
+	"bufio"
 	"fmt"
 	"io"
 	"net/http"
 	"os"
-    "github.com/PuerkitoBio/goquery"
-    "strings"
-    "time"
-    
+	"github.com/PuerkitoBio/goquery"
+	"strings"
+	"time"
 )
 
 func main() {
